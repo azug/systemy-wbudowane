@@ -43,6 +43,7 @@
     <object>objects\obj_fence_r</object>
     <object>objects\obj_fence_u</object>
     <object>objects\obj_score</object>
+    <object>objects\obj_mig_student</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\intro</room>

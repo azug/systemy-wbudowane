@@ -89,7 +89,7 @@
           </argument>
           <argument>
             <kind>1</kind>
-            <string>Score: </string>
+            <string>Zaliczenia: </string>
           </argument>
         </arguments>
       </action>

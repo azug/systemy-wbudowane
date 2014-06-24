@@ -21,5 +21,7 @@
   <height>50</height>
   <frames>
     <frame index="0">images\panda_0.png</frame>
+    <frame index="1">images\panda_1.png</frame>
+    <frame index="2">images\panda_2.png</frame>
   </frames>
 </sprite>
